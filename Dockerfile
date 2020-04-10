@@ -7,8 +7,6 @@ ENV FORCE_COLOR=1 NPM_CONFIG_LOGLEVEL=warn
 # Set the default working directory
 WORKDIR /blink
 
-COPY ./yarn-offline-mirror ./yarn-offline-mirror
-
 COPY packages/eslint-config/package.json ./packages/eslint-config/
 # COPY projects/create-react-app/package.json ./projects/create-react-app/
 # COPY projects/gatsby/package.json ./projects/gatsby/
@@ -17,7 +15,7 @@ COPY packages/eslint-config/package.json ./packages/eslint-config/
 COPY .yarnrc babel.config.js package.json yarn.lock ./
 
 # Install packages and clean up unnecessary caches
-RUN yarn --offline && rm -rf `yarn cache dir` ./yarn-offline-mirror
+RUN yarn && rm -rf `yarn cache dir`
 
 # Copy the relevant files to the working directory
 COPY ./packages ./packages
