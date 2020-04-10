@@ -131,6 +131,7 @@
         "lint:fix": "run-p 'prettier --write' 'eslint --fix'",
         "prettier": "prettier-eslint $PWD/'**/*.{graphql,json,md,yml}' --list-different",
         "release": "lerna publish --conventional-commits --create-release=github --yes",
+        "prepublish": "yarn lint:fix",
         "start": "yarn compose:prod up --build",
         "storybook": "start-storybook -p 9001 -c .storybook",
         "test": "jest",

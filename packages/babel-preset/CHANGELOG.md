@@ -7,10 +7,6 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 **Note:** Version bump only for package @blink/babel-preset
 
-
-
-
-
 ## [0.3.15](https://github.com/ascension/blink/compare/@blink/babel-preset@0.3.14...@blink/babel-preset@0.3.15) (2020-04-05)
 
 **Note:** Version bump only for package @blink/babel-preset
