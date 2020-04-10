@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.66](https://github.com/ascension/blink/compare/@blink/eslint-config@0.2.65...@blink/eslint-config@0.2.66) (2020-04-10)
+
+
+### Bug Fixes
+
+* **deps:** update dependency prettier to v2.0.4 ([f518f61](https://github.com/ascension/blink/commit/f518f61d68083cce5f5c9aed0d78f819a2641283))
+
+
+
+
+
 ## [0.2.65](https://github.com/ascension/blink/compare/@blink/eslint-config@0.2.64...@blink/eslint-config@0.2.65) (2020-04-10)
 
 **Note:** Version bump only for package @blink/eslint-config
