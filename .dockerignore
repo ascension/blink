@@ -1,7 +1,6 @@
 *
 !packages/*
 !projects/*
-!yarn-offline-mirror/**
 !.yarnrc
 !babel.config.js
 !package.json
