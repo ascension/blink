@@ -5,11 +5,9 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## [0.2.64](https://github.com/ascension/blink/compare/@blink/eslint-config@0.2.63...@blink/eslint-config@0.2.64) (2020-04-10)
 
+### Bug Fixes
+
 **Note:** Version bump only for package @blink/eslint-config
-
-
-
-
 
 ## [0.2.63](https://github.com/ascension/blink/compare/@blink/eslint-config@0.2.62...@blink/eslint-config@0.2.63) (2020-04-05)
 
