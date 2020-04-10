@@ -55,7 +55,7 @@ jobs:
         steps:
             - attach_workspace:
                   at: ~/
-            - run: yarn --silent now --token=$NOW_TOKEN
+            - run: yarn --silent now --token=$NOW_TOKEN --confirm
             - run: yarn --silent now --token=$NOW_TOKEN alias blink-$CIRCLE_SHA1.now.sh
     lint:
         <<: *defaults
