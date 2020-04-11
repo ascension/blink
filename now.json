@@ -1,5 +1,5 @@
 {
-    "alias": ["jerrod.bunce.io"],
+    "alias": ["blink.bunce.io"],
     "builds": [{ "src": "projects/web/package.json", "use": "@now/next" }],
     "github": {
         "autoAlias": false
