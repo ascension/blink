@@ -34,7 +34,7 @@ jobs:
         steps:
             - attach_workspace:
                   at: ~/
-            - run: yarn --silent now --token=$NOW_TOKE --prod
+            - run: yarn --silent now --token=$NOW_TOKEN --prod
     build:
         <<: *defaults
         steps:
