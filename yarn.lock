@@ -9075,10 +9075,10 @@ eventemitter2@4.1.2:
   resolved "https://registry.yarnpkg.com/eventemitter2/-/eventemitter2-4.1.2.tgz#0e1a8477af821a6ef3995b311bf74c23a5247f15"
   integrity sha1-DhqEd6+CGm7zmVsxG/dMI6UkfxU=
 
-eventemitter2@6.3.1:
-  version "6.3.1"
-  resolved "https://registry.yarnpkg.com/eventemitter2/-/eventemitter2-6.3.1.tgz#14ec7db8c659aa9b36ad2ce4bfcaba95ad525536"
-  integrity sha512-cxfu3g0IBn/JEhAPV33NZTi8llQQ5j62D0Yf4ir1U9uQ1DlRZLL3Hh2E/+TWDprSy4BETWvrGBZMUexuC2b6Lw==
+eventemitter2@6.4.3:
+  version "6.4.3"
+  resolved "https://registry.yarnpkg.com/eventemitter2/-/eventemitter2-6.4.3.tgz#35c563619b13f3681e7eb05cbdaf50f56ba58820"
+  integrity sha512-t0A2msp6BzOf+QAcI6z9XMktLj52OjGQg+8SJH6v5+3uxNpWYRR3wQmfA+6xtMU9kOC59qk9licus5dYcrYkMQ==
 
 eventemitter3@^3.0.0, eventemitter3@^3.1.0:
   version "3.1.2"
