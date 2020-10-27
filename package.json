@@ -25,7 +25,7 @@
         "enzyme": "3.11.0",
         "enzyme-adapter-react-16": "1.15.2",
         "enzyme-to-json": "3.5.0",
-        "eslint": "6.8.0",
+        "eslint": "7.12.1",
         "gatsby-cli": "2.11.7",
         "husky": "4.2.5",
         "jest": "25.3.0",
